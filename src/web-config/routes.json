@@ -241,7 +241,7 @@
 } , 
  {
   "path" : "/myMenu" ,
-  "name" : "myMenu" ,
+  "name" : "myMenu1" ,
   "component" : "welcome/Main" ,
   "meta" : {
     "icon" : "el-icon-sugar" ,
