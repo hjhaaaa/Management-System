@@ -1,4 +1,4 @@
-# 基于element和vue的后台管理系统框架架~
+# 基于element和vue的后台管理系统框架架~1
 
 #### 如何使用
 - npm install 或者 npm i
