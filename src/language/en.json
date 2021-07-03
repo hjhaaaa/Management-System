@@ -1,6 +1,7 @@
 {
   "" : "" ,
   "myMenu" : "mymenu" ,
+  "myApp" : "myApp" ,
   "element" : "常用组件" ,
   "eleDialog" : "element-dialog" ,
   "title" : "Power Bee Intelligent Park Management System" ,

@@ -1,5 +1,6 @@
 {
   "" : "" ,
+  "myApp" : "app信息" ,
   "myMenu" : "我的菜单" ,
   "element" : "常用组件" ,
   "eleDialog" : "element-dialog" ,
